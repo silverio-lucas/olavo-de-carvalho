@@ -1,0 +1,41 @@
+{
+  "name": "@example/basics",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "update-validator": "ts-to-zod src/types.ts src/validator.ts",
+    "dev": "astro dev",
+    "start": "astro dev",
+    "check-types": "yarn update-validator && astro check && tsc --noEmit",
+    "build": "astro build",
+    "preview": "astro preview",
+    "clean": "npx rimraf dist"
+  },
+  "devDependencies": {
+    "@astrojs/tailwind": "^3.1.1",
+    "@types/node": "^18.16.3",
+    "astro": "^2.10.15",
+    "autoprefixer": "^10.4.16",
+    "daisyui": "^2.51.6",
+    "less": "^4.2.0",
+    "prettier": "^2.8.8",
+    "prettier-plugin-astro": "^0.12.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "sass": "^1.69.6",
+    "tailwindcss": "^3.4.0",
+    "ts-to-zod": "^1.13.1",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@astrojs/image": "^0.18.0",
+    "@astrojs/markdown-component": "^1.0.5",
+    "@tailwindcss/typography": "^0.5.10",
+    "astro-icon": "^0.8.1",
+    "sharp": "^0.32.6",
+    "tailwindcss-triangle-after": "^1.2.0",
+    "tailwindcss-triangles": "^4.0.0",
+    "theme-change": "^2.5.0"
+  },
+  "packageManager": "pnpm@9.4.0+sha512.f549b8a52c9d2b8536762f99c0722205efc5af913e77835dbccc3b0b0b2ca9e7dc8022b78062c17291c48e88749c70ce88eb5a74f1fa8c4bf5e18bb46c8bd83a"
+}
