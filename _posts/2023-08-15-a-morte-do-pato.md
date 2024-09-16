@@ -1,0 +1,20 @@
+---
+layout: post
+title: A morte do pato
+subtitle: "** É assim que um grupo relativamente pequeno de líderes psicopáticos destrói a alma de uma nação. **"
+category: projects
+image:
+  path: /assets/img/a-morte-do-pato.jpg
+tag: [biblioteca, artigos]
+description: A morte do pato - o que restou do Imbecil, vol. V
+projecturl: /assets/amortedopato/
+amazon: https://amzn.to/3XnVHBn
+---
+
+“Só não direi que a curta e feliz existência de uma esperança foi o canto de cisne da direita liberal para não ser acusado de elevar, na escala estética das espécies animais, uma facção política que se deixou assar como um pato”. Este quinto volume da série O que restou do Imbecil traz todos os artigos que Olavo de Carvalho publicou no ano de 2002 — para quem não se lembra, ano de eleições, precisamente as que elevaram, pela primeira vez, Luiz Inácio Lula da Silva e o PT ao poder. Interligando acontecimentos nacionais e internacionais, recentes e longínquos, o autor tentava mostrar ao país quem realmente era Lula, e que aquele pleito não passava de um teatro, montado para ocultar o fato de que, por meio da estratégia gramsciana, a esquerda já tinha ocupado todos os espaços e criado para si uma falsa direita. Duas décadas depois, com o mesmo personagem de volta à presidência, reler esses apelos pode ser ao mesmo tempo alarmante e esclarecedor.
+
+## Apresentação
+
+Este  volume  se  compõe  de  todos  os  artigos  que  Olavo  de  Carvalho publicou  no  ano  de  2002,  nos  jornais  Zero  Hora,  O  Globo,  Jornal  da Tarde,  e  na  revista  Época,  e  vem  para  integrar  a  série  O  que  restou  do Imbecil,  que,  dando  seqüência  a  O  Imbecil  Coletivo,  de  1996 (reeditado  por  nós  agora  em 2021),  já  conta  com  seus  quatro primeiros  volumes  A  longa  marcha  da  vaca  para  o  brejo  (2019),  O imbecil  juvenil  (2020),  O  leão  e  os  ossos  (2021)  e  O  irracional superior  (2023).  O  ano  de  2002  foi  marcado,  no  Brasil,  pelas  eleições presidenciais,  nas  quais  concorreram  Anthony  Garotinho,  Ciro Gomes,  José  Serra  e  Luiz  Inácio  Lula  da  Silva,  e  que  elevaram,  pela primeira  vez,  o  ao  poder  em  Brasília.  Em  seus  artigos,  o  filósofo tentava  conscientizar  os  brasileiros  da  farsa  em  que  consistia  aquele pleito,  dado  que “uma  campanha  eleitoral,  no  Brasil  de  hoje,  é  apenas um  gigantesco  esforço  de  causar  boa  impressão,  e  rigorosamente  nada de  substancial  pode  ser  discutido  desde  o  ponto  de  vista  de  um interesse  tão  epidérmico”.  Ao  explicar  as  ligações  de  Lula  com  o movimento  comunista  latino-americano,  e  as  raízes  deste  na  história dos  séculos  anteriores,  Olavo  se  esforçava  por  mostrar  que  “a  direita”que  tínhamos  era  “a  direita  com  que  a  esquerda  sempre  sonhou,  a direita  que,  a  rigor,  a  esquerda  mesma  criou  para  seu  próprio  uso  e deleite”.  Consternado  quando  interpretavam  seus  escritos  como expressões  de  apoio  ou  oposição  político-partidária,  explicitava  que “um  filósofo  tem  o  direito  de  exigir  que  suas  declarações  sobre qualquer  assunto  menor  sejam  interpretadas  à  luz  de  suas  próprias concepções  mais  gerais  e  fundamentais,  e  não  a  partir  de  semelhanças ou  diferenças  fortuitas  com  opiniões  de  outras  pessoas.  Esse  direito  se torna  ainda  mais  irrecusável  se  tais  opiniões,  por  dignas  e  honradas que sejam no seu domínio próprio, são emitidas desde o ponto de vista de  interesses  imediatos  alheios  à  única  preocupação  filosófica essencial,  que  é  a  busca  da  unidade  do  conhecimento  na  unidade  da consciência  e  vice-  versa”.  Duas  décadas  depois  —  e,  após  tantas andanças,  com  o  mesmo  personagem  de  volta  à  presidência  —,  estes artigos  devem  ser  lidos  por  nós  sob  aquela  mesma  luz,  pois,  como  nos deixou  precavidos  seu  autor,  eles  permanecem  seriamente  atuais:“Muitas coisas que eu escrevi vão ser úteis depois da minha morte”.
+
+— O editor
