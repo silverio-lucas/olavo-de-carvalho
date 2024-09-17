@@ -1,0 +1,50 @@
+{
+  "name": "In Memoriam",
+  "roles": ["Veritas filia temporis O.C.✨", "A verdade é filha do tempo. O.C. ✨", "Pensador 🤔", "Professor 👨‍🏫", "Visionário ⚜️"],
+  "social": [
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/araguaci.andrade/",
+      "icon": "ri:instagram-line"
+    },
+    {
+      "label": "Blog",
+      "href": "https://araguaci.github.io/aboutme/",
+      "icon": "mdi:fountain-pen-tip"
+    },
+    {
+      "label": "Website",
+      "href": "https://www.artesdosul.com/",
+      "icon": "ri:pages-fill"
+    }
+  ],
+  "devToUser": "araguaci",
+  "aboutMe": "https://raw.githubusercontent.com/araguaci/olavo-de-carvalho/main/README.md",
+  "avatar": "https://raw.githubusercontent.com/araguaci/olavo-de-carvalho/main/public/olavo-de-carvalho.png",
+  "projects": [
+    {
+      "name": "Ponerologia - Psicopatas no Poder",
+      "description": "É assim que um grupo relativamente pequeno de líderes psicopáticos destrói a alma de uma nação.",
+      "cover": "https://raw.githubusercontent.com/araguaci/ponerologia-psicopatas-no-poder/d0d51df1ff4f681688ac41aa8d51199778fa9aa6/ponerologia-psicopatas-no-poder.png",
+      "yearReleased": 2012,
+      "href": "https://ponerologia-psicopatas-no-poder.vercel.app/ponerologia-psicopatas-no-poder.pdf",
+      "repository": "https://github.com/araguaci/ponerologia-psicopatas-no-poder"
+    },
+    {
+      "name": "Santo Agostinho",
+      "description": "Aula 10 - Analise do período da dissolução do Império Romano e destaca a vida e a filosofia de Santo Agostinho.",
+      "yearReleased": 2007,
+      "cover": "https://raw.githubusercontent.com/araguaci/santo-agostinho/main/public/Santo_Agostinho.jpg",
+      "href": "https://santo-agostinho.vercel.app/",
+      "repository": "https://github.com/araguaci/santo-agostinho"
+    },
+    {
+      "name": "Curso Online de Filosofia",
+      "description": "Transcrição do Curso Online de Filosofia. Todas as aulas em áudio. 1 a 585 com 4 aulas de introdução ao COF.",
+      "yearReleased": 2009,
+      "cover": "https://lp.seminariodefilosofia.org/assinatura-cof/assets/secondbanner.webp",
+      "href": "https://archive.org/details/COFemAudio/",
+      "repository": "https://github.com/osescribas/cof?tab=readme-ov-file"
+    }
+  ]
+}
