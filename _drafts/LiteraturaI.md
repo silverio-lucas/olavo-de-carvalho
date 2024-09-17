@@ -1,0 +1,52 @@
+I. Literatura de Ficção
+
+- Machado de Assis – Memórias Póstumas de Brás Cubas [ X ]
+- Machado de Assis – Quincas Borba
+- Machado de Assis – Dom Casmurro  [ X ]
+- Machado de Assis – Esaú e Jacó [ X ]
+- Machado de Assis – Papéis Avulsos
+- Machado de Assis – Histórias Sem Data
+- Machado de Assis – Várias Histórias
+- Raul Pompéia – O Ateneu
+- Coelho Neto – Turbilhão
+- Lima Barreto – Triste Fim de Policarpo Quaresma
+- Lima Barreto – Vida e Morte de M. J. Gonzaga de Sá
+- Graciliano Ramos – São Bernardo
+- Graciliano Ramos – Vidas Secas [LENDO]
+- Graciliano Ramos – Angústia
+- Jorge Amado – Terras do Sem Fim
+- Jorge Amado – Os Velhos Marinheiros
+- José Lins do Rego – Fogo Morto
+- José Lins do Rego – Cangaceiros
+- José Geraldo Vieira – A Mulher que Fugiu de Sodoma
+- José Geraldo Vieira – Terreno Baldio
+- José Geraldo Vieira – O Albatroz
+- Marques Rebelo – Oscarina
+- Marques Rebelo – Três Caminhos
+- Marques Rebelo – O Espelho Partido (3 Vols.)
+- Érico Veríssimo – O Tempo e o Vento (7 Vols.)
+- Ciro dos Anjos – O Amanuense Belmiro
+- João Guimarães Rosa – Sagarana
+- João Guimarães Rosa – Grande Sertão: Veredas
+- João Guimarães Rosa – Corpo de Baile
+- Octávio de Faria – Mundos Mortos
+- Annibal M. Machado – A Morte da Porta-Estandarte e Outras Histórias
+- Clarice Lispector – A Maçã no Escuro
+- Antônio Callado – Quarup
+- José J. Veiga – A Hora dos Ruminantes
+- José J. Veiga – Sombras de Reis Barbudos
+- Osman Lins – Avalovara
+- Herberto Sales – Dados Biográficos do Finado Marcelino
+- José de Alencar - Senhora
+- Aluísio Azevedo - O Cortiço
+- Rachel de Queiroz - O Quinze
+- Euclides da Cunha - Os Sertões
+- José Roberto Torero - Terra Papagali
+- Jorge Amado - Capitães de Areia  [ X ]
+- Jorge Amado - A morte e a morte de Quincas berro d'água
+- Jorge Amado - Farda Fardão Camisola de Dormir
+- Jorge Amado - Tenda dos Milagres
+- Jorge Amado - Dona flor e seus dois maridos [ X ]
+- Jorge Amado - Seara Vermelha
+- Jorge Amado - Mar Morto
+- Álvares de Azevedo - Noite na Taverna e Macário

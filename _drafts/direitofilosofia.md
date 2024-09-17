@@ -1,0 +1,12 @@
+Direito e Filosofia Política:
+- Direito, Legislação e Liberdade, Friedrich Hayek
+- O Caminho da Servidão, Friedrich Hayek
+- Os Fundamentos da Liberdade, Friedrich Hayek
+- Liberalismo Segundo a Tradição Clássica, Ludwig von Mises
+- A Lei, Frédéric Bastiat
+- Frédéric Bastiat, Frédéric Bastiat
+- A Era dos Direitos, Norberto Bobbio
+- Anarquia, Estado  e Utopia, Robert Nozick
+- A Sociedade Aberta e Seus Inimigos, Karl Popper
+- Da Liberdade dos Antigos Comparada à dos Modernos, Benjamin Constant
+- Two Concepts of Liberty, Isaiah Berlin
