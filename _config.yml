@@ -15,7 +15,7 @@
 # General settings
 # ---------------------------------------------------------------------------------------
 
-url: https://olavodecarvalho.vercel.app/
+url: https://olavodecarvalho.netlify.app
 # baseurl: ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
@@ -489,5 +489,7 @@ feed:
 
 # Analytics GDPR compliant
 # ---------------------------------------------------------------------------------------
-umami:
-  website_id: 74190bc9-921f-44e2-b2c9-339c749e3329
+#umami:
+#  website_id: 74190bc9-921f-44e2-b2c9-339c749e3329
+
+destination: ./docs
