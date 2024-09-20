@@ -4,7 +4,7 @@
 	</a>
 </p>
 
-## Quem é Olavo de Carvalho?
+### Quem é Olavo de Carvalho?
 
 **Olavo Luiz Pimentel de Carvalho** é **professor**, **filósofo**, **escritor**, **ensaísta** e **jornalista brasileiro**. Autor profícuo, **escreveu mais de 40 livros, mais de 44 cursos, dezenas de milhares de páginas em apostilas e artigos**, protagonizou um filme e, durante 14 anos, ministrou semanalmente seu **Curso Online de Filosofia, o COF - contabilizando mais de 570 aulas**.
 
